@@ -1,0 +1,6 @@
+@dbzApi_HostAddress = http://localhost:5263
+
+GET {{dbzApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
