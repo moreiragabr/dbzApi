@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dbzApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88becc4eab13a611c8a30310997096bb76ffda9b")]
 [assembly: System.Reflection.AssemblyProductAttribute("dbzApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dbzApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
